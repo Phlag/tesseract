@@ -1,0 +1,13 @@
+{
+    "name": "phlag/ocr",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jonathan Grenier",
+            "email": "phlagmatic@gmail.com"
+        }
+    ],
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.7"
+    }
+}
